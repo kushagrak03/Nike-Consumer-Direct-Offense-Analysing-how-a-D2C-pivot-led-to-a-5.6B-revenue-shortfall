@@ -1,0 +1,12 @@
+Fiscal_Year,Actual_Revenue_M,Actual_Op_Margin_Pct,ScenarioA_Balanced_Revenue_M,ScenarioA_Op_Margin_Pct,ScenarioB_Actual_Revenue_M,ScenarioB_Op_Margin_Pct,ScenarioC_Recovery_Revenue_M,ScenarioC_Op_Margin_Pct,Notes
+2017,34350,13.83,34350,13.83,34350,13.83,34350,13.83,Base year - CDO just announced
+2018,36397,12.21,37100,13.5,36397,12.21,36397,12.21,Scenario A: retained more wholesale
+2019,39117,12.2,41000,13.8,39117,12.2,39117,12.2,Scenario A: balanced growth without aggressive cuts
+2020,37403,8.33,39500,11.5,37403,8.33,37403,8.33,COVID impact - Scenario A slightly better
+2021,44538,15.58,46000,15.2,44538,15.58,44538,15.58,Boom year - all scenarios similar
+2022,46710,14.29,50500,14.8,46710,14.29,46710,14.29,Scenario A: no inventory crisis
+2023,51217,11.55,54000,13.4,51217,11.55,52000,12.5,Gap widens in Scenario A
+2024,51362,12.29,57000,14.2,51362,12.29,54000,13.1,$5.6B revenue missed vs Scenario A
+2025,47818,10.3,59500,14.8,47818,10.3,56000,13.8,Actual declining; scenarios project forward
+2026,46398,7.99,62000,15.2,48000,10.5,58500,14.0,Hypothetical projection
+2027,N/A,N/A,65000,15.8,50000,11.2,61000,14.5,Full forecast - hypothetical only

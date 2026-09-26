@@ -1,0 +1,23 @@
+Event_ID,Event_Date,Event_Name,Event_Category,Decision_Type,NKE_Price_On_Event,NKE_Price_30d_After,NKE_Price_90d_After,Return_30d_Pct,Return_90d_Pct,Market_Verdict,impact_classification,cumulative_return_pct,price_change_since_last_event
+1,15-Jun-2017,"Consumer Direct Offense Announced",Strategy,Offensive,53.20,58.10,60.20,9.20,13.20,Positive,"Moderate Positive",18.40,NULL
+1,15-Jun-2017,"Consumer Direct Offense Announced",Strategy,Offensive,53.20,58.10,60.20,9.20,13.20,Positive,"Moderate Positive",18.40,0.00
+2,27-Feb-2018,"Partnership with Amazon Confirmed",Partnership,Offensive,66.50,69.30,72.10,4.20,8.40,Positive,Neutral,26.80,13.30
+2,27-Feb-2018,"Partnership with Amazon Confirmed",Partnership,Offensive,66.50,69.30,72.10,4.20,8.40,Positive,Neutral,26.80,0.00
+3,12-Nov-2019,"Mark Parker Steps Down - Donahoe Named CEO",Leadership,Transition,90.30,87.20,93.40,-3.40,3.40,Neutral,Neutral,20.00,23.80
+3,12-Nov-2019,"Mark Parker Steps Down - Donahoe Named CEO",Leadership,Transition,90.30,87.20,93.40,-3.40,3.40,Neutral,Neutral,20.00,0.00
+4,23-Jun-2020,"Consumer Direct Acceleration Announced",Strategy,Acceleration,98.30,110.20,119.40,12.10,21.50,Positive,"Major Positive",44.20,8.00
+4,23-Jun-2020,"Consumer Direct Acceleration Announced",Strategy,Acceleration,98.30,110.20,119.40,12.10,21.50,Positive,"Major Positive",44.20,0.00
+5,18-Nov-2021,"NKE Stock Peak ~$177",Market,Peak,177.50,155.30,134.20,-12.50,-24.40,"N/A - Peak","Major Negative",19.20,79.20
+5,18-Nov-2021,"NKE Stock Peak ~$177",Market,Peak,177.50,155.30,134.20,-12.50,-24.40,"N/A - Peak","Major Negative",19.20,0.00
+6,24-Jun-2022,"Inventory Crisis Disclosed in Earnings",Crisis,Warning,109.50,97.30,85.20,-11.10,-22.20,Negative,"Major Negative",-3.00,-68.00
+6,24-Jun-2022,"Inventory Crisis Disclosed in Earnings",Crisis,Warning,109.50,97.30,85.20,-11.10,-22.20,Negative,"Major Negative",-3.00,0.00
+7,16-Dec-2022,"Q2 FY2023 Earnings - Inventory Glut Confirmed",Crisis,Earnings,110.20,118.40,122.30,7.40,11.00,Mixed,"Moderate Positive",11.80,0.70
+7,16-Dec-2022,"Q2 FY2023 Earnings - Inventory Glut Confirmed",Crisis,Earnings,110.20,118.40,122.30,7.40,11.00,Mixed,"Moderate Positive",11.80,0.00
+8,04-Oct-2023,"Foot Locker CEO Announces Renewed Nike Partnership",Recovery,Partnership,88.50,100.20,105.40,13.20,19.10,Positive,"Major Positive",38.20,-21.70
+8,04-Oct-2023,"Foot Locker CEO Announces Renewed Nike Partnership",Recovery,Partnership,88.50,100.20,105.40,13.20,19.10,Positive,"Major Positive",38.20,0.00
+9,28-Jun-2024,"FY2024 Earnings - Revenue Growth Stalls",Crisis,Earnings,75.30,72.10,70.20,-4.30,-6.80,Negative,Neutral,29.60,-13.20
+9,28-Jun-2024,"FY2024 Earnings - Revenue Growth Stalls",Crisis,Earnings,75.30,72.10,70.20,-4.30,-6.80,Negative,Neutral,29.60,0.00
+10,19-Sep-2024,"Donahoe Replaced by Elliott Hill as CEO",Leadership,Recovery,78.20,90.40,96.30,15.60,23.10,Positive,"Major Positive",60.80,2.90
+10,19-Sep-2024,"Donahoe Replaced by Elliott Hill as CEO",Leadership,Recovery,78.20,90.40,96.30,15.60,23.10,Positive,"Major Positive",60.80,0.00
+11,01-Oct-2024,"Elliott Management Takes Activist Stake",Investor,External,92.10,85.30,80.20,-7.40,-13.00,Negative,"Moderate Negative",46.00,13.90
+11,01-Oct-2024,"Elliott Management Takes Activist Stake",Investor,External,92.10,85.30,80.20,-7.40,-13.00,Negative,"Moderate Negative",46.00,0.00

@@ -1,0 +1,7 @@
+Channel,Avg_Order_Value_USD,Purchase_Frequency_Per_Year,Avg_Customer_Lifespan_Years,Est_Gross_Margin_Pct,Customer_Acquisition_Cost_USD,Estimated_CLV_USD,LTV_CAC_Ratio,Retention_Rate_Pct,Segment_Type
+Nike Direct - Digital,92,2.4,2.8,47.0,45,290.57,6.46,58,D2C
+Nike Direct - Owned Stores,88,1.9,3.2,44.0,38,235.42,6.2,62,D2C
+Nike SNKRS App Sneakerhead,165,3.1,4.5,51.0,28,1173.89,41.92,71,D2C Premium
+Wholesale - Foot Locker,72,1.4,5.1,38.0,8,195.35,24.42,74,Wholesale
+Wholesale - Sporting Goods,68,1.6,4.8,37.0,6,193.23,32.2,72,Wholesale
+Wholesale - Department Store,61,1.2,4.2,35.0,4,107.6,26.9,68,Wholesale

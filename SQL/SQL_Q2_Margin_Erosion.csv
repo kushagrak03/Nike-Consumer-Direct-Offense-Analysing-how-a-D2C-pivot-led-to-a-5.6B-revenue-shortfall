@@ -1,0 +1,11 @@
+Fiscal_Year,Gross_Margin_Pct,Operating_Margin_Pct,SGA_Pct_Revenue,Nike_Direct_Share_Pct,CDO_Phase,gross_margin_change,operating_margin_change,strategy_phase_flag
+2015,45.97,13.64,28.64,27.50,Pre-CDO,NULL,NULL,"Wholesale Dominant Phase"
+2016,46.24,13.91,30.55,28.10,Pre-CDO,0.27,0.27,"Wholesale Dominant Phase"
+2017,44.58,13.83,30.75,32.40,"CDO Launch",-1.66,-0.08,"Transition Phase"
+2018,43.84,12.21,30.12,34.70,"CDO Acceleration",-0.74,-1.62,"Transition Phase"
+2019,44.67,12.20,29.49,30.30,"CDO Acceleration",0.83,-0.01,"Transition Phase"
+2020,43.42,8.33,31.38,33.20,"CDO + COVID",-1.25,-3.87,"Transition Phase"
+2021,44.82,15.58,29.29,36.90,"CDA Launch",1.40,7.25,"Transition Phase"
+2022,45.98,14.29,31.69,42.10,"CDA Peak",1.16,-1.29,"High D2C Phase"
+2023,43.52,11.55,31.98,43.70,Crisis,-2.46,-2.74,"High D2C Phase"
+2024,44.56,12.29,32.27,43.60,Reckoning,1.04,0.74,"High D2C Phase"

@@ -1,0 +1,7 @@
+Channel,Segment_Type,Avg_Order_Value_USD,Purchase_Frequency_Per_Year,Avg_Customer_Lifespan_Years,Est_Gross_Margin_Pct,Customer_Acquisition_Cost_USD,Estimated_CLV_USD,LTV_CAC_Ratio,Retention_Rate_Pct,ltv_cac_rating,clv_vs_segment_avg,ltv_cac_rank,clv_rank
+"Nike SNKRS App Sneakerhead","D2C Premium",165.00,3.10,4.50,51.00,28.00,1170.68,41.81,71.00,Excellent,0.00,1,1
+"Wholesale - Sporting Goods",Wholesale,68.00,1.60,4.80,37.00,6.00,193.54,32.26,72.00,Excellent,28.06,2,5
+"Wholesale - Department Store",Wholesale,61.00,1.20,4.20,35.00,4.00,107.35,26.84,68.00,Excellent,-58.13,3,6
+"Wholesale - Foot Locker",Wholesale,72.00,1.40,5.10,38.00,8.00,195.55,24.44,74.00,Excellent,30.07,4,4
+"Nike Direct - Digital",D2C,92.00,2.40,2.80,47.00,45.00,290.54,6.46,58.00,Good,27.31,5,2
+"Nike Direct - Owned Stores",D2C,88.00,1.90,3.20,44.00,38.00,235.93,6.21,62.00,Good,-27.31,6,3

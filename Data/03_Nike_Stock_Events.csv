@@ -1,0 +1,12 @@
+Event_ID,Event_Date,Event_Name,Event_Category,Decision_Type,NKE_Price_On_Event,NKE_Price_30d_After,NKE_Price_90d_After,Return_30d_Pct,Return_90d_Pct,Market_Verdict
+1,15-Jun-2017,Consumer Direct Offense Announced,Strategy,Offensive,53.2,58.1,60.2,9.2,13.2,Positive
+2,27-Feb-2018,Partnership with Amazon Confirmed,Partnership,Offensive,66.5,69.3,72.1,4.2,8.4,Positive
+3,12-Nov-2019,Mark Parker Steps Down - Donahoe Named CEO,Leadership,Transition,90.3,87.2,93.4,-3.4,3.4,Neutral
+4,23-Jun-2020,Consumer Direct Acceleration Announced,Strategy,Acceleration,98.3,110.2,119.4,12.1,21.5,Positive
+5,18-Nov-2021,NKE Stock Peak ~$177,Market,Peak,177.5,155.3,134.2,-12.5,-24.4,N/A - Peak
+6,24-Jun-2022,Inventory Crisis Disclosed in Earnings,Crisis,Warning,109.5,97.3,85.2,-11.1,-22.2,Negative
+7,16-Dec-2022,Q2 FY2023 Earnings - Inventory Glut Confirmed,Crisis,Earnings,110.2,118.4,122.3,7.4,11.0,Mixed
+8,04-Oct-2023,Foot Locker CEO Announces Renewed Nike Partnership,Recovery,Partnership,88.5,100.2,105.4,13.2,19.1,Positive
+9,28-Jun-2024,FY2024 Earnings - Revenue Growth Stalls,Crisis,Earnings,75.3,72.1,70.2,-4.3,-6.8,Negative
+10,19-Sep-2024,Donahoe Replaced by Elliott Hill as CEO,Leadership,Recovery,78.2,90.4,96.3,15.6,23.1,Positive
+11,01-Oct-2024,Elliott Management Takes Activist Stake,Investor,External,92.1,85.3,80.2,-7.4,-13.0,Negative
